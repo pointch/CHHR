@@ -1,2 +1,0 @@
-# CHHR
-Human Resource Managerment 
